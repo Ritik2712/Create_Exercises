@@ -1,3 +1,7 @@
+# a mern app in which one can Add users and Exercises and can Edit and delete them
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
